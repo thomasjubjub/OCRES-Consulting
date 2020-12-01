@@ -1,0 +1,128 @@
+@font-face {
+    font-family: 'MontserratRegular';
+    src: url('/font/MONTSERRAT-REGULAR.OTF') format('otf'),
+    url('/font/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'MontserratBlack';
+    src: url('/font/MONTSERRAT-BLACK.OTF') format('otf');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MontserratSemiBold';
+    src: url('/font/MONTSERRAT-SEMIBOLD.OTF') format('otf'),
+    url('/font/Montserrat-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+.separator{
+    margin-top: 50px;
+}
+.separator1
+{
+    margin-top: 100px;
+}
+
+body{
+    font-family: 'Montserrat-Regular';
+    
+}
+
+body{
+    background-color: #202020 !important;
+    color: white !important;
+}
+
+header .logo
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+}
+
+.messageBienvenue
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.messageBienvenue h1{
+    font-size: 150px;
+    font-weight: 900;
+}
+
+.descriptionExperience
+{
+    width: 50%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.boutonContainer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boutonCommencer
+{
+    border-radius: 40px;
+    width: 160px;
+    height: 50px;
+    border: solid 2px white;
+    background-color: #202020;
+    color: white;
+    transition-duration: 0.3s;
+}
+
+.boutonCommencer:hover
+{
+    background-color: white;
+    color: #202020;
+}
+
+.choix
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.presentationCours{
+    text-align: justify;
+}
+
+.boutonRetour
+{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.boutonRetour .flecheRetour
+{
+    max-width: 5%;
+    padding: 15px;
+    border-radius: 40px;
+    border: solid 2px white ;
+    transition-duration: 0.3s;
+}
+
+.boutonRetour .flecheRetour:hover{
+    
+    padding: 10px;
+}
