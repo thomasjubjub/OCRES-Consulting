@@ -81,7 +81,8 @@ header .logo
 .boutonCommencer
 {
     border-radius: 40px;
-    width: 160px;
+    padding-right: 20px;
+    padding-left: 20px;
     height: 50px;
     border: solid 2px white;
     background-color: #202020;
@@ -148,4 +149,24 @@ header .logo
     margin-left: auto;
     margin-right: auto;
     width: 75%;
+}
+
+.reponse
+{
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.photo
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.photo img
+{
+    border-radius: 100%;
 }

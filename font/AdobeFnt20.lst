@@ -1,0 +1,148 @@
+%!Adobe-FontList 1.20
+%Locale:0x40c
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Black
+FamilyName:Montserrat
+StyleName:Black
+FullName:Montserrat Black
+MenuName:Montserrat Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tjlen\Documents\ECEParis\ING5\Consulting\OCRES-Consulting\Font\MONTSERRAT-BLACK.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:230124
+FileModTime:1602744793
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Black
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Black
+FamilyName:Montserrat
+StyleName:Black
+FullName:Montserrat Black
+MenuName:Montserrat Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tjlen\Documents\ECEParis\ING5\Consulting\OCRES-Consulting\Font\Montserrat-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:257552
+FileModTime:1602744794
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Black
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+FullName:Montserrat Regular
+MenuName:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tjlen\Documents\ECEParis\ING5\Consulting\OCRES-Consulting\Font\MONTSERRAT-REGULAR.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:228620
+FileModTime:1602744796
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat Regular
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+FullName:Montserrat Regular
+MenuName:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tjlen\Documents\ECEParis\ING5\Consulting\OCRES-Consulting\Font\Montserrat-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:245708
+FileModTime:1602744798
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+FullName:Montserrat SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tjlen\Documents\ECEParis\ING5\Consulting\OCRES-Consulting\Font\MONTSERRAT-SEMIBOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:234056
+FileModTime:1602744797
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Montserrat SemiBold
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-SemiBold
+FamilyName:Montserrat
+StyleName:SemiBold
+FullName:Montserrat SemiBold
+MenuName:Montserrat SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\tjlen\Documents\ECEParis\ING5\Consulting\OCRES-Consulting\Font\Montserrat-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:243816
+FileModTime:1602744797
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat SemiBold
+NameArray:0,Win,16,Montserrat
+%EndFont
+
