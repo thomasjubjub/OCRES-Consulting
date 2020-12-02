@@ -126,3 +126,26 @@ header .logo
     
     padding: 10px;
 }
+
+.enonce
+{
+    text-align: justify;
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.titreChoixQuestion h2
+{
+    text-align: center;
+    font-size: 25px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.choixQuestion{
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
